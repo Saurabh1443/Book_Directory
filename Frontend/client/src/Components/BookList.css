@@ -1,0 +1,27 @@
+.booklist{
+    height:max-content;
+    display:flex;
+   max-width:100%;
+    padding-top:30px;
+  margin-right:5px;
+  gap:20px;
+  margin-top:5px;
+  margin-left:5px;
+  flex-wrap:wrap-reverse;
+
+
+}
+.child_div{
+    border:1px solid red;
+    background-image:linear-gradient(120deg,red,blue,green,violet,brown,aqua);
+   padding-bottom:5px;
+   border-radius:7px;
+   color:rgba(255, 255, 255, 0.616);
+}
+.child_div1 >h3{
+    margin-top:3px;
+}
+
+.child_div >h1{
+    color:saddlebrown
+}

@@ -1,0 +1,31 @@
+.nav_main{
+    background-color:aquamarine;
+    height:auto;
+    width:100%;
+}
+.nav_main >h1{
+    text-align:center;
+}
+.nav_heading{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    padding-top:30px;
+    flex-wrap: wrap;
+}
+.nav_list{
+    display:flex;
+ margin-left:20px;
+}
+.nav_list a{
+text-decoration:none;
+padding-right:15px;
+}
+.nav_account{
+    display:flex;
+margin:auto
+}
+.nav_account a{
+    text-decoration:none;
+   padding:10px;
+}

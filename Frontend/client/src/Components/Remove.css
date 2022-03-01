@@ -1,0 +1,14 @@
+.operations{
+    display:flex;
+    justify-content: flex-end;
+    gap:30px;
+    margin-right:5px;
+}
+.operations >button{
+    padding:3px 5px 2px 5px;
+    font-size:12px;
+    color:rgba(0, 128, 6, 0.89);
+    cursor:pointer;
+    border:none;
+    outline:none;
+}
